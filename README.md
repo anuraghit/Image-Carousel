@@ -1,1 +1,1 @@
-#Image Carousel using JavaScript, HTML, CSS
+# Image Carousel using JavaScript, HTML, CSS
